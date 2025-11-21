@@ -33,10 +33,10 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url></url>
+		    <url>http://44.210.238.199:8081/repository/myrepo/</url>
 		</repository>
   	</distributionManagement>
-	<http://44.202.188.170:8081/#admin/repository/repositories>
+	
 	<pluginRepositories>
 	    <pluginRepository>    
 		<id>maven1</id>

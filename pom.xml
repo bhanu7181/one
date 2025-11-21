@@ -36,7 +36,7 @@
 		    <url></url>
 		</repository>
   	</distributionManagement>
-	http://44.202.188.170:8081/#admin/repository/repositories
+	<!-- http://44.202.188.170:8081/#admin/repository/repositories -->
 	<pluginRepositories>
 	    <pluginRepository>    
 		<id>maven1</id>
